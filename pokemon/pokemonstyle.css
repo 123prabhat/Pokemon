@@ -1,0 +1,64 @@
+.navbar-wrapper
+{
+    background-color:black;
+    
+    
+}
+.carousel
+{
+    height:500px;
+    margin-bottom:50px;
+}
+
+.carousel .item
+{
+    height:500px;
+    background-color:aquamarine;
+}
+
+.mycarousel-ineer> .item > img
+{
+    position:absolute;
+    height:500px;
+    min-width:100%;
+    left:0;
+    top:0;
+}
+.team .col-lg-4{
+    text-align: center;
+    margin-bottom:20px;
+}
+.team h3
+{
+    color:blueviolet;
+}
+.team p
+{
+    color:darkgreen;
+    margin-left:1px;
+    margin-right:10px;
+}
+.divider
+{
+    margin:80px 0;
+}
+.lead
+{
+    font-size:30px;
+}
+.mickey
+{
+    padding-left:50px;
+    text-align: center;
+}
+.pt
+{
+    font-size:20px;
+}
+.ft
+{
+    font-size:20px;
+    margin: 15px;
+    padding-left:10px;
+    padding right:10px;
+}
